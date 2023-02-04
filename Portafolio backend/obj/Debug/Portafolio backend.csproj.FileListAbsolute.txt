@@ -1,0 +1,11 @@
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\bin\Debug\Portafolio backend.exe.config
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\bin\Debug\Portafolio backend.exe
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\bin\Debug\Portafolio backend.pdb
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.csproj.AssemblyReference.cache
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.csproj.SuggestedBindingRedirects.cache
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio_backend.Form1.resources
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio_backend.Properties.Resources.resources
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.csproj.GenerateResource.cache
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.csproj.CoreCompileInputs.cache
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.exe
+C:\Users\joses\source\repos\Portafolio backend\Portafolio backend\obj\Debug\Portafolio backend.pdb
